@@ -1,0 +1,80 @@
+/* whole body */
+body {
+    background-color: #efe2ba;
+    color: #1f2833;
+}
+
+.body {
+    margin: 0 auto;
+    padding: 3%;
+}
+
+/* nav bar */
+.name {
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+    font-size: 3.5em;
+    margin-bottom: 0;
+}
+
+.bg-light {
+    background-color: #efe2ba!important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #1f2833;
+    font-family: 'Chivo', sans-serif;
+    font-weight: bolder;
+    font-size: 1.3em;
+}
+
+.navbar-fixed-top {
+    top: 0;
+    border-width: 0 0 1px;
+}
+
+
+/* left side */
+.self {
+    margin-top: 3vh;
+}
+
+.docs {
+    margin-top: 5vh;
+    text-align: center;
+    font-size: 2em;
+    color: #1f2833;
+    font-family: 'Fredoka One', cursive;
+    font-weight: bolder;
+}
+
+.list-group-item {
+    background-color: #efe2ba;
+    border: 1px solid #1f2833;
+}
+
+.list-group-item-action {
+    width: 100%;
+    color: #1f2833;
+    font-family: 'Chivo', sans-serif;
+    font-weight: bolder;
+    font-size: 1.25em;
+}
+
+.click {
+    margin-top: 5vh;
+    font-family: 'Chivo', sans-serif;
+    color: #1f2833;
+    font-style: italic;
+    font-size: 0.9em;
+    text-align: center;
+}
+
+
+/* right side */
+.description {
+    font-family: 'Lora', serif;
+    margin-top: 3vh;
+    font-size: 1.15em;
+    color: #1f2833;
+}
